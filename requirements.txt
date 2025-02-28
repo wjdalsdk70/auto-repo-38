@@ -1,0 +1,4 @@
+# calculator_api/requirements.txt
+fastapi
+uvicorn
+pydantic
